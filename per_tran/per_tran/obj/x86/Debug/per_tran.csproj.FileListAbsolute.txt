@@ -1,0 +1,44 @@
+D:\nov 24\per_tran\per_tran\bin\Debug\per_tran.exe
+D:\nov 24\per_tran\per_tran\bin\Debug\per_tran.pdb
+D:\nov 24\per_tran\per_tran\bin\Debug\MySql.Data.dll
+D:\nov 24\per_tran\per_tran\bin\Debug\MySqlBackup.dll
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\per_tran.csprojResolveAssemblyReference.cache
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\per_tran.Form1.resources
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\per_tran.Properties.Resources.resources
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\per_tran.csproj.GenerateResource.Cache
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\per_tran.exe
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\per_tran.pdb
+D:\nov 24\per_tran\per_tran\bin\Debug\per_tran.exe.config
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\per_tran.Transaction.resources
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\per_tran.Day_report.resources
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\per_tran.index1.resources
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\RdlCompile.cache
+D:\nov 24\per_tran\per_tran\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\bin\Debug\per_tran.exe.config
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\per_tran.exe
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\per_tran.pdb
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\bin\Debug\per_tran.exe
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\bin\Debug\per_tran.pdb
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\per_tran.csprojResolveAssemblyReference.cache
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\per_tran.Day_report.resources
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\per_tran.Form1.resources
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\per_tran.index1.resources
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\per_tran.Properties.Resources.resources
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\per_tran.Transaction.resources
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\per_tran.csproj.GenerateResource.Cache
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\RdlCompile.cache
+C:\Users\Dell 7400\Desktop\141224\per_tran\per_tran\obj\x86\Debug\RdlCompile.compiled
+D:\.Net\141224\per_tran\per_tran\bin\Debug\per_tran.exe.config
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\per_tran.exe
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\per_tran.pdb
+D:\.Net\141224\per_tran\per_tran\bin\Debug\per_tran.exe
+D:\.Net\141224\per_tran\per_tran\bin\Debug\per_tran.pdb
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\per_tran.csprojResolveAssemblyReference.cache
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\per_tran.Day_report.resources
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\per_tran.Form1.resources
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\per_tran.index1.resources
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\per_tran.Properties.Resources.resources
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\per_tran.Transaction.resources
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\per_tran.csproj.GenerateResource.Cache
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\RdlCompile.cache
+D:\.Net\141224\per_tran\per_tran\obj\x86\Debug\RdlCompile.compiled
